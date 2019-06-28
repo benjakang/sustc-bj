@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.sustc.data.dao.CargoFileDao">
+    
+    <sql id="CargoColumns">
+        a.id,
+        a.created,
+        a.updated,
+        a.epc,
+        a.raw,
+        a.del
+    </sql>
+
+    <insert id="insert">
+        INSERT INTO cargo_list (
+          `created`,
+          `updated`,
+          `epc`,
+          `raw`,
+          `del`
+        )
+        VALUES
+          (
+            #{created},
+            #{updated},
+            #{epc},
+            #{raw},
+            #{del}
+          )
+
+    </insert>
+    <select id="search" resultType="CargoFile">
+        select
+        <include refid="CargoColumns"/>
+        from cargo_list as a
+        where a.epc = #{epc}
+    </select>
+
+</mapper>

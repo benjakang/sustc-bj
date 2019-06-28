@@ -1,0 +1,36 @@
+2019-06-03 13:09:03,051 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@244038d0: startup date [Mon Jun 03 13:09:03 CST 2019]; root of context hierarchy
+2019-06-03 13:09:03,157 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context.xml]
+2019-06-03 13:09:03,776 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context-druid.xml]
+2019-06-03 13:09:03,867 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context-mybatis.xml]
+2019-06-03 13:09:05,207 INFO [com.alibaba.druid.pool.DruidDataSource] - {dataSource-1} inited
+2019-06-03 13:09:48,420 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+2019-06-03 13:09:48,501 INFO [org.springframework.jdbc.support.SQLErrorCodesFactory] - SQLErrorCodes loaded: [DB2, Derby, H2, HDB, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase]
+2019-06-03 13:11:55,737 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@244038d0: startup date [Mon Jun 03 13:11:55 CST 2019]; root of context hierarchy
+2019-06-03 13:11:55,812 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context.xml]
+2019-06-03 13:11:56,090 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context-druid.xml]
+2019-06-03 13:11:56,138 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context-mybatis.xml]
+2019-06-03 13:11:56,979 INFO [com.alibaba.druid.pool.DruidDataSource] - {dataSource-1} inited
+2019-06-03 14:13:40,674 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+2019-06-03 14:13:40,763 INFO [org.springframework.jdbc.support.SQLErrorCodesFactory] - SQLErrorCodes loaded: [DB2, Derby, H2, HDB, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase]
+2019-06-03 14:14:19,947 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@244038d0: startup date [Mon Jun 03 14:14:19 CST 2019]; root of context hierarchy
+2019-06-03 14:14:20,034 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context.xml]
+2019-06-03 14:14:20,534 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context-druid.xml]
+2019-06-03 14:14:20,601 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context-mybatis.xml]
+2019-06-03 14:14:21,580 INFO [com.alibaba.druid.pool.DruidDataSource] - {dataSource-1} inited
+2019-06-03 14:51:16,852 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+2019-06-03 14:51:16,904 INFO [org.springframework.jdbc.support.SQLErrorCodesFactory] - SQLErrorCodes loaded: [DB2, Derby, H2, HDB, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase]
+2019-06-03 14:51:44,562 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@244038d0: startup date [Mon Jun 03 14:51:44 CST 2019]; root of context hierarchy
+2019-06-03 14:51:44,654 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context.xml]
+2019-06-03 14:51:44,946 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context-druid.xml]
+2019-06-03 14:51:44,994 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context-mybatis.xml]
+2019-06-03 14:51:46,098 INFO [com.alibaba.druid.pool.DruidDataSource] - {dataSource-1} inited
+2019-06-03 15:00:17,824 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@244038d0: startup date [Mon Jun 03 15:00:17 CST 2019]; root of context hierarchy
+2019-06-03 15:00:17,900 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context.xml]
+2019-06-03 15:00:18,128 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context-druid.xml]
+2019-06-03 15:00:18,168 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context-mybatis.xml]
+2019-06-03 15:00:18,925 INFO [com.alibaba.druid.pool.DruidDataSource] - {dataSource-1} inited
+2019-06-03 15:39:23,881 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@244038d0: startup date [Mon Jun 03 15:39:23 CST 2019]; root of context hierarchy
+2019-06-03 15:39:23,974 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context.xml]
+2019-06-03 15:39:24,466 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context-druid.xml]
+2019-06-03 15:39:24,518 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context-mybatis.xml]
+2019-06-03 15:39:25,773 INFO [com.alibaba.druid.pool.DruidDataSource] - {dataSource-1} inited
